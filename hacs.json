@@ -1,0 +1,7 @@
+{
+  "name": "Smart Heating Card",
+  "description": "Lovelace dashboard card for the Smart Heating Controller integration.",
+  "render_readme": true,
+  "homeassistant": "2023.1.0",
+  "filename": "dist/smart-heating-card.js"
+}
